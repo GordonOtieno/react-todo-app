@@ -5,10 +5,6 @@
 ### project spashoots
 ![Snapshot](./Screenshot.png)
 
-### live demo
-
-
-
 ##### For validation detection using Webhint Run
 
 npx hint .
